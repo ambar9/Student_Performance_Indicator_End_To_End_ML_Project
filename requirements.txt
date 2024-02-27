@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+
+
+# following command is automatically open setup.py
+-e .
