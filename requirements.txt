@@ -4,4 +4,6 @@ seaborn
 
 
 # following command is automatically open setup.py
+# "-e ." this value will disappear once run(install)
+# So remember to add -e .
 -e .
