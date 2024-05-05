@@ -27,7 +27,7 @@ Dataset Source Link :
 
 # Screenshot of UI
 
-![HomepageUI](./Screenshots/HomepageUI.jpg)
+![HomepageUI](/templates/Homepage.png)
 
 # Approach for the project 
 
@@ -54,8 +54,8 @@ Dataset Source Link :
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/1_EDA_Gemstone_price.ipynb)
+Link : [EDA Notebook](/Notebook/EDA%20STUDENT%20PERFORMANCE.ipynb)
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/2_Model_Training_Gemstone.ipynb)
+Link : [Model Training Notebook](/Notebook/MODEL%20TRAINING.ipynb)
